@@ -53,7 +53,7 @@ python-dotenv==0.14.0
     # via uvicorn
 pyyaml==5.3.1
     # via uvicorn
-regex==2020.10.23
+regex
     # via black
 six==1.15.0
     # via pip-tools
@@ -61,7 +61,7 @@ starlette==0.13.6
     # via fastapi
 toml==0.10.1
     # via black
-typed-ast==1.4.1
+typed-ast
     # via black
 typing-extensions==3.7.4.3
     # via black
